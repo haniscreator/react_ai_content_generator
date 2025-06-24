@@ -48,12 +48,13 @@ cd ai-content-generator
 npm install
 npx expo install expo-clipboard
 ```
-
+---
 
 ### 🔐 Notes
 API calls are routed through your Node.js server — never expose your AI key in the frontend.
 You can deploy the backend to Render, Vercel, or Railway for production.
 
+---
 
 ### 🤖 Credits
 - Powered by OpenRouter.ai
